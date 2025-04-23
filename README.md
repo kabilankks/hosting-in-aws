@@ -1,7 +1,8 @@
-## 🧠 AWS Cloud Infrastructure Design
+## 🧠 AWS Cloud Infrastructure Design  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" alt="AWS Logo" height="19">
 
 As part of my cloud computing coursework, I designed and implemented a complete **cloud infrastructure on AWS** for a simulated company, **Karite Pte Ltd**. The goal was to create a scalable and secure network architecture that supports both public and private services.
 
+---
 #### 🧩 Key Components
 - **Virtual Private Cloud (VPC)** with multiple subnets across **two availability zones**
 - **Public & Private Subnets** for secure resource segmentation
