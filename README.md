@@ -1,2 +1,2 @@
 # hosting-in-aws
-Simulated AWS Cloud Infrastructure Design (for github profile)
+Simulated AWS Cloud Infrastructure Design (for github profile) -in progress
